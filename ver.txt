@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
@@ -45,3 +46,6 @@ Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 >>>>>>> f1b2c9a (listo seguro)
 >>>>>>> 4d3f656 (listo seguro)
 >>>>>>> Stashed changes
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> 77af5df (primer commit)
