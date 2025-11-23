@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
@@ -53,3 +54,6 @@ jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 =======
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 >>>>>>> 3e9bc38 (listo)
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> a189b1d (primer commit)
