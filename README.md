@@ -17,7 +17,6 @@
 <h2 id="create-files-and-folders">Create files and folders</h2>
 <p>Todos los archivos son solo de muestra y no tienen ningún valor real.</p>
 <h2 id="mi-logo">Mi logo</h2>
-<p><img src="https://ibb.co/nqhzGgjZ" alt="enter image description here"><br>
-<img src="https://ibb.co/nqhzGgjZ" alt="Logo"></p>
+<p><a href="https://ibb.co/nqhzGgjZ"><img src="https://i.ibb.co/kVYQ7HXk/logo.gif" alt="logo" border="0"></a></p>
 <h2 id="final">Final</h2>
 
