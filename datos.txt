@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 arieljjjjjjjjhhhhhhhhhh
+=======
+jjjjjjjjhhhhhhhhhh
+>>>>>>> ed5d76c (primer commit)
