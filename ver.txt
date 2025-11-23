@@ -2,6 +2,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dee9759 (primer commit)
 <<<<<<< Updated upstream
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
@@ -52,6 +55,7 @@ Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 >>>>>>> 77af5df (primer commit)
+<<<<<<< HEAD
 =======
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 >>>>>>> 3e9bc38 (listo)
@@ -61,3 +65,5 @@ jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 =======
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 >>>>>>> 4c7471c (listo)
+=======
+>>>>>>> dee9759 (primer commit)
