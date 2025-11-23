@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 arieljjjjjjjjhhhhhhhhhh
 =======
 jjjjjjjjhhhhhhhhhh
@@ -7,3 +8,9 @@ jjjjjjjjhhhhhhhhhh
 =======
 arieljjjjjjjjhhhhhhhhhh
 >>>>>>> 9ff913e (listo)
+=======
+arieljjjjjjjjhhhhhhhhhh
+=======
+jjjjjjjjhhhhhhhhhh
+>>>>>>> 46d64d2 (seguro primer commit)
+>>>>>>> 60e68e2 (seguro primer commit)

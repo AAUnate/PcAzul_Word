@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
@@ -7,3 +8,9 @@ jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 =======
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 >>>>>>> 9ff913e (listo)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> 46d64d2 (seguro primer commit)
+>>>>>>> 60e68e2 (seguro primer commit)
