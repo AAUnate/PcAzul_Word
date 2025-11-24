@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 arieljjjjjjjjhhhhhhhhhh
 =======
 jjjjjjjjhhhhhhhhhh
@@ -9,8 +10,16 @@ jjjjjjjjhhhhhhhhhh
 arieljjjjjjjjhhhhhhhhhh
 >>>>>>> 9ff913e (listo)
 =======
+=======
+>>>>>>> 15821ee (seguro 259204f secundaria)
 arieljjjjjjjjhhhhhhhhhh
 =======
 jjjjjjjjhhhhhhhhhh
 >>>>>>> 46d64d2 (seguro primer commit)
+<<<<<<< HEAD
 >>>>>>> 60e68e2 (seguro primer commit)
+=======
+=======
+arieljjjjjjjjhhhhhhhhhh
+>>>>>>> 0ecd65b (seguro 259204f secundaria)
+>>>>>>> 15821ee (seguro 259204f secundaria)
