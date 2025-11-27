@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 >>>>>>> 46d64d2 (seguro primer commit)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> ebd5d8d (preparado)
