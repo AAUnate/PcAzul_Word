@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
@@ -7,3 +8,6 @@ jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 =======
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 >>>>>>> ebd5d8d (preparado)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo
+>>>>>>> 0519fa5 (agregué nuevo.lis)
