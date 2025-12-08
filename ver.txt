@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
@@ -11,3 +12,6 @@ hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 =======
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo
 >>>>>>> 0519fa5 (agregué nuevo.lis)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> f1b2c9a (listo seguro)
