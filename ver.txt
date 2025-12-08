@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
@@ -15,6 +16,8 @@ hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 >>>>>>> 838e7e0 (preparado)
 =======
 >>>>>>> 02a3128 (agregué nuevo.lis)
+=======
+>>>>>>> 4d3f656 (listo seguro)
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
@@ -31,4 +34,10 @@ hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 =======
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo
 >>>>>>> 0519fa5 (agregué nuevo.lis)
+<<<<<<< HEAD
 >>>>>>> 02a3128 (agregué nuevo.lis)
+=======
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> f1b2c9a (listo seguro)
+>>>>>>> 4d3f656 (listo seguro)
