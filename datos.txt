@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 arieljjjjjjjjhhhhhhhhhh
 =======
 jjjjjjjjhhhhhhhhhh
 >>>>>>> ed5d76c (primer commit)
+=======
+arieljjjjjjjjhhhhhhhhhh
+>>>>>>> 9ff913e (listo)

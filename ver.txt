@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
 =======
 jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
 >>>>>>> ed5d76c (primer commit)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> 9ff913e (listo)
