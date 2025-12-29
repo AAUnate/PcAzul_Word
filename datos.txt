@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 arieljjjjjjjjhhhhhhhhhh
+=======
+jjjjjjjjhhhhhhhhhh
+>>>>>>> 46d64d2 (seguro primer commit)
+=======
+arieljjjjjjjjhhhhhhhhhh
+>>>>>>> 0ecd65b (seguro 259204f secundaria)

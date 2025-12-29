@@ -1,1 +1,17 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> 46d64d2 (seguro primer commit)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> ebd5d8d (preparado)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo
+>>>>>>> 0519fa5 (agregué nuevo.lis)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> f1b2c9a (listo seguro)
