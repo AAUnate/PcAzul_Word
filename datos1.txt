@@ -1,0 +1,25 @@
+<<<<odo<<< HEAD
+<< <<<<< HEAD
+<<<  <<<< HEAD
+<<<<<   << HEAD
+arieljjj   jjjjjhhhhhhhhhh
+=======
+jjjjjjjjhhhhhhhhhh
+>>>>>>> ed5d76c (primer commit)
+=======
+arieljjjjjjjjhhhhhhhhhh
+>>>>>>> 9ff913e (listo)
+=======
+=======
+>>>>>>> 15821ee (seguro 259204f secundaria)
+arieljjjjjjjjhhhhhhhhhh
+=======
+jjjjjjjjhhhhhhhhhh
+>>>>>>> 46d64d2 (seguro primer commit)
+<<<<<<< HEAD
+>>>>>>> 60e68e2 (seguro primer commit)
+=======
+=======
+arieljjjjjjjjhhhhhhhhhh
+>>>>>>> 0ecd65b (seguro 259204f secundaria)
+>>>>>>> 15821ee (seguro 259204f secundaria)
