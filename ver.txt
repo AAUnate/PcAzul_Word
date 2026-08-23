@@ -1,1 +1,13 @@
-hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+ariel.dat
+ariel.lis
+datos.txt
+git init.docx
+Git init2.docx
+Git.docx
+listo.dat
+mas.dat
+nuevo.lis
+nuevo.txt
+README.md
+ver.lis
+ver.txt
