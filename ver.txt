@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ariel.dat
 ariel.lis
 datos.txt
@@ -11,3 +12,83 @@ nuevo.txt
 README.md
 ver.lis
 ver.txt
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dee9759 (primer commit)
+=======
+>>>>>>> b2c96e6 (Listo)
+<<<<<<< Updated upstream
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> ed5d76c (primer commit)
+=======
+Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> 9ff913e (listo)
+=======
+=======
+>>>>>>> 838e7e0 (preparado)
+=======
+>>>>>>> 02a3128 (agregué nuevo.lis)
+=======
+>>>>>>> 4d3f656 (listo seguro)
+Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> 46d64d2 (seguro primer commit)
+<<<<<<< HEAD
+>>>>>>> 60e68e2 (seguro primer commit)
+=======
+=======
+Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> ebd5d8d (preparado)
+<<<<<<< HEAD
+>>>>>>> 838e7e0 (preparado)
+=======
+=======
+Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo
+>>>>>>> 0519fa5 (agregué nuevo.lis)
+<<<<<<< HEAD
+>>>>>>> 02a3128 (agregué nuevo.lis)
+=======
+=======
+Hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> f1b2c9a (listo seguro)
+>>>>>>> 4d3f656 (listo seguro)
+>>>>>>> Stashed changes
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> 77af5df (primer commit)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> 3e9bc38 (listo)
+=======
+jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu
+>>>>>>> a189b1d (primer commit)
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> 4c7471c (listo)
+=======
+>>>>>>> dee9759 (primer commit)
+=======
+=======
+hola jjjdkskskjjjjjhhhhhhhhhhhhuuuuuuuuuuu complet completo y seguir
+>>>>>>> 3e9bc38 (listo)
+>>>>>>> b2c96e6 (Listo)
+>>>>>>> main

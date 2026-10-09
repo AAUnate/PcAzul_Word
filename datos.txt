@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 arieljjjjjjjjhhhhhhhhhh
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+alejandroarieljjjjjjjjhhhhhhhhhh
+=======
+jjjjjjjjhhhhhhhhhh
+>>>>>>> a189b1d (primer commit)
+=======
+arieljjjjjjjjhhhhhhhhhh
+>>>>>>> 4c7471c (listo)
+>>>>>>> main

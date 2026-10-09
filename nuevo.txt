@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 datos nuevos datos nuevos hhhhhhhhhhhhh
 oooooo
 oooo
+=======
+hhhhhhhhhhhhh
+>>>>>>> main
