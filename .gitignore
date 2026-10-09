@@ -1,6 +1,17 @@
 ~*.docx
+<<<<<<< HEAD
 *.tmp
 <<<<<<< HEAD
 *.swp
 =======
 >>>>>>> f1b2c9a (listo seguro)
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+*.tmp
+=======
+>>>>>>> 51944d1 (sin backup de word)
+=======
+*.tmp
+>>>>>>> 4c7471c (listo)
+>>>>>>> main
